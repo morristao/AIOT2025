@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/morristao/AIOT2025.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = morristao
+	email = morristao@users.noreply.github.com
+[branch "add-streamlit-demo"]
+	remote = origin
+	merge = refs/heads/add-streamlit-demo
