@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+artifacts/
+reports/
+*.pyc
+*.pkl
+*.joblib
+
